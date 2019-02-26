@@ -7,6 +7,7 @@ namespace EngineApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello - I am engine app!");
+            Console.WriteLine("Hello - I am using V6!");
         }
     }
 }
