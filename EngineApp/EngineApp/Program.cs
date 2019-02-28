@@ -10,8 +10,6 @@ namespace EngineApp
             Console.WriteLine("This is development");
 
             var engine = new EngineClass();
-
-            //We are making changes in submodule
         }
     }
 }
