@@ -9,6 +9,8 @@ namespace EngineApp
             Console.WriteLine("Hello - I am engine app!");
             Console.WriteLine("This is development");
 
+            var engine = new EngineClass();
+
             //We are making changes in submodule
         }
     }
