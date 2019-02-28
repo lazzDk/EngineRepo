@@ -7,5 +7,6 @@ namespace EngineApp
     class EngineClass
     {
         public string Type { get; set; }
+        public int Litre { get; set; }
     }
 }
